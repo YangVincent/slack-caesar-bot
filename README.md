@@ -1,1 +1,3 @@
-# slack-caesar-bot
+Slack Caesar Bot
+=============
+
